@@ -1,5 +1,5 @@
-# obsidian-plugins
-Just a bunch of plugins I have created/slighly copypasted and want to share out.
+# obsidian-snippets
+Just a bunch of snippets I have created/slighly copypasted and want to share out.
 Here's a list for now!
 - **checkboxes.css** adds custom checkboxes from [Brainhack](https://github.com/Spekulucius/obsidian-brainhack)'s theme with some extra ones too!
   - right now adds [w]in, [k]ey, [f]ire and a brand new [.] standing for Incognito!
